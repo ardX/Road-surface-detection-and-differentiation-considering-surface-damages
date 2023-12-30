@@ -1,0 +1,1 @@
+conda create -n fastai -c pytorch -c fastai -c anaconda -c conda-forge python=3.9 fastai=1.0.61 pytorch=1.10.0 ipykernel opencv
